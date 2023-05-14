@@ -1,0 +1,15 @@
+.model{
+    font-size: 37px;
+    font-family: Arial;
+    font-weight: bold;
+    margin-bottom: 10px;
+   margin-left: 50px;
+}
+.body{
+    color: rgb(42, 41, 41);
+    font-size: 17px;
+   
+}
+.underline{
+    text-decoration: underline;
+}
